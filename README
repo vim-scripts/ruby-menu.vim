@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=188
+
+Currently does the following:
+
+Run the script out of the buffer
+Runs RI on a word under cursor
+Runs the script using the word under the cursor as an argument
+Comment lines
+Uncomment lines
+
+Please e-mail with contributions or desires. I will add the appropriate "who did what" to the script
+if you contribute.
